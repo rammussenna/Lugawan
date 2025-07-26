@@ -41,7 +41,7 @@ core set of ingredients that supports:
 | ------------------------------ | -------------------------------------------- | ---------------------------------- |
 | **Calamansi**                  | Optional acidity                             | Players can forget it              |
 | **Sili / Chili Oil**           | For “spicy” requests                         | May trigger dialogue               |
-| **Black Pepper**               | Secret option, not always shown              | Story-relevant one day             |
+| **Black Pepper**               | Depends if customer wants it            | Story-relevant one day             |
 | **Chicharon**                  | Rare topping / unlockable                    | High-tier order item               |
 | **Lumpia**                     | Not for lugaw but side order (money booster) | Adds variation in late-game rushes |
 
