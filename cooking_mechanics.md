@@ -28,7 +28,7 @@ core set of ingredients that supports:
 
 | Ingredient          | Use                  | Notes                                   |
 | ------------------- | -------------------- | --------------------------------------- |
-| **Tokwa (Tofu)**    | For *Tokwa’t Baboy*  | Must be deep-fried or pan-fried         |
+| **Tokwa (Tofu)**    | For *Tokwa’t Baboy* and lugaw  | Must be deep-fried or pan-fried         |
 | **Baboy (Pork)**    | For *Goto* or combo  | Needs pre-boil or sauté                 |
 | **Itlog na Maalat** | Optional topping     | Slice before serving                    |
 | **Chicken**         | Arroz caldo-specific | Appears later in game or special events |
@@ -65,7 +65,7 @@ For engine use or system planning:
 
 | Property          | Description                           | Example                               |
 | ----------------- | ------------------------------------- | ------------------------------------- |
-| **Perishability** | Some ingredients expire               | Luya, Baboy                           |
+| **Perishability** | Some ingredients expire               | Calamansi, Baboy                           |
 | **Prep Type**     | Raw, Boiled, Fried, Sliced            | Tokwa = fried                         |
 | **Mood Modifier** | Impacts customer dialogue/mood        | Garlic adds +1 satisfaction           |
 | **Hidden Flag**   | For story tracking                    | Using wrong broth = mark “Glitch Day” |
