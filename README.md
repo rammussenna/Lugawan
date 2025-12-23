@@ -18,7 +18,7 @@
 ##  Gameplay Features
 
 -  **Cook Filipino classics**: Serve *lugaw*, *tokwa’t baboy*, *goto*, and *arroz caldo* with real-time prep mechanics.
--  **Meet the regulars**: A rotating cast of quirky customers with recurring dialogues that change depending on time and choices.
+-  **Meet the regulars**: A rotating cast of quirky customers with recurring dialogues that change depending on choices.
 -  **Narrative unfolding**: Through dialogue and shifting scenes, uncover the story behind the vendor—and the truth about the lugawan.
 -  **Lo-fi and ambient OPM-inspired OST**: Enhancing both the cozy and eerie tones as the story shifts.
 
