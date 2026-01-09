@@ -1,4 +1,4 @@
-# Lugawan Simulator (Working Title)
+# Lugawan simulator (Working Title)
 
 > *"Serve comfort. Face discomfort."*
 
