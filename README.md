@@ -1,35 +1,65 @@
-# Lugawan simulator (Working Title)
+# Lugawan Simulator (Working Title)
+*"Serve comfort. Face discomfort."*
 
-> *"Serve comfort. Face discomfort."*
-
-**Lugawan Simulator** is a short narrative cooking simulation game set in a humble Filipino *lugawan*. What begins as a light, almost comedic day-in-the-life of a vendor slowly transforms into something much deeper—challenging players to reflect on memory, routine, and what it means to feed others while starving internally.
-
----
-
-##  Overview
-
--  **Genre:** Narrative Cooking Simulator / Psychological Slice-of-Life  
--  **Playtime:** ~2–3 hours  
--  **Setting:** Urban Philippines, small roadside *lugawan*  
--  **Tone:** Starts off humorous and grounded, shifts into introspective and unsettling  
+**Genre:** Narrative Cooking Simulator / Psychological Slice-of-Life  
+**Playtime:** ~2–3 hours  
+**Setting:** Urban Philippines, small roadside lugawan  
+**Tone:** Humorous and grounded → gradually unsettling and introspective  
 
 ---
 
-##  Gameplay Features
-
--  **Cook Filipino classics**: Serve *lugaw*, *tokwa’t baboy*, *goto*, and *arroz caldo* with real-time prep mechanics.
--  **Meet the regulars**: A rotating cast of quirky customers with recurring dialogues that change depending on choices.
--  **Narrative unfolding**: Through dialogue and shifting scenes, uncover the story behind the vendor—and the truth about the lugawan.
--  **Lo-fi and ambient OPM-inspired OST**: Enhancing both the cozy and eerie tones as the story shifts.
+## Concept Overview
+Lugawan Simulator is a short narrative cooking simulation game set in a humble Filipino lugawan.  
+Players start by managing a cozy, lighthearted day serving comfort food to quirky regulars. As the story unfolds, the game shifts into a deeper, psychological exploration of memory, routine, and the quiet despair of feeding others while starving internally.  
 
 ---
 
-##  Inspirations
+## Gameplay Features
 
-- *Papers, Please* — for routine-based gameplay with moral weight  
-- *VA-11 HALL-A* — for customer-based narrative pacing  
-- *Don't Open Your Eyes* and *The Stanley Parable* — for subtle surreal narrative tone shifts  
-- Filipino everyday life, local eateries, and themes of family, loss, and survival  
+### Cooking Mechanics
+- Prepare Filipino comfort food in real-time: **lugaw, goto, tokwa’t baboy, arroz caldo**.  
+- Simple but expressive mechanics: chopping, stirring, simmering, seasoning, and timing.  
+- Quality of service affects customer reactions and unlocks narrative branches.  
+
+### Character Interaction
+- Meet a rotating cast of **regulars and passersby**, each with unique dialogue and quirks.  
+- Interactions can hint at hidden histories or trigger subtle surreal events.  
+- Player choices influence both emotional atmosphere and story progression.  
+
+### Narrative Evolution
+- Daily routines gradually shift from mundane to psychologically complex.  
+- Environmental and dialogue cues reveal the vendor’s past, regrets, and emotional struggles.  
+- Repetition of tasks mirrors monotony, memory, and unspoken grief.  
+
+### Audio & Visuals
+- Lo-fi, ambient **OPM-inspired soundtrack**, adapting from cozy to haunting as story progresses.  
+- Cozy, low-poly or painterly urban Philippines visuals that gradually gain subtle surrealism.  
+
+---
+
+## Inspirations
+- **Papers, Please** – Routine gameplay with moral and narrative weight  
+- **VA-11 HALL-A** – Character-driven narrative through interactions  
+- **Don’t Open Your Eyes / The Stanley Parable** – Subtle shift from mundane to surreal  
+- Filipino everyday life – Grounding story in culture, food, and local community  
+
+---
+
+## Narrative Themes
+- Family, loss, survival, and the emotional toll of routine.  
+- Each day reveals more about the vendor’s history and the hidden lives of customers.  
+- Possible endings reflect the vendor’s emotional state or moral choices:  
+  - Maintaining comfort and routine  
+  - Emotional breakdown  
+  - Confronting personal truths  
+
+---
+
+## Status
+- **Concept Phase:** Narrative and gameplay mechanics outlined  
+- **Playable Prototype:** Planned  
+
+---
 
 
 ## 🇵🇭 Cultural Elements
