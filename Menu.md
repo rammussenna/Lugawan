@@ -4,10 +4,10 @@
 
 | Dish                            | Price |
 |----------------------------------|--------|
-| Plain Lugaw                      | ₱10    |
+| Plain Lugaw                      | ₱12    |
 | Lugaw with Atay (Liver)          | ₱40    |
 | Lugaw with Egg                   | ₱25    |
-| Lugaw with Chicken               | ₱55    |
+| Lugaw with Chicken               | ₱50    |
 | Lugaw with Tokwa (Tofu)          | ₱35    |
 | Lugaw with Baboy (Pork)          | ₱60    |
 | LTB (Lugaw, Tokwa’t Baboy) Combo | ₱80    |
@@ -19,7 +19,7 @@
 | Dish                 | Price |
 |----------------------|--------|
 | Lumpiang Togue       | ₱15    |
-| Barbecue (Stick)     | ₱20    |
+| Barbecue (Stick)     | ₱18    |
 |2pc Barbecue w/ Rice & Drink Combo | ₱50   |
 
 ---
@@ -29,8 +29,8 @@
 | Dish                                | Price |
 |-------------------------------------|--------|
 | Plain Dinuguan                      | ₱60    |
-| Dinuguan w/ Rice & Drink Combo      | ₱90   |
-| Dinuguan w/ Puto (4 pcs) & Drink    | ₱70   |
+| Dinuguan w/ Rice & Drink Combo      | ₱90    |
+| Dinuguan w/ Puto (4 pcs) & Drink    | ₱70    |
 | Plain Sisig                         | ₱100   |
 | Sisig w/ Rice & Drink Combo         | ₱130   |
 | Crispy Pata w/ Rice & Drink Combo   | ₱200   |
